@@ -1,6 +1,6 @@
 # PythonAlgorithms
 
-This is a list of algorithms that I already did on LeetCode.com to improve my python code skills
+This is a list of algorithms that I did on LeetCode.com to improve my code skills
 
 # What have I learned?
 
